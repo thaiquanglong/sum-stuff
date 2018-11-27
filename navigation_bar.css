@@ -44,7 +44,7 @@ color: #f1f1f1;
 }
 
 .dropdown-content {
-	margin: -4px 0px;
+	margin: -6px 0px;
     display: none;
     position: fixed;
     background-color: #262626;
