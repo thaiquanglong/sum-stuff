@@ -28,7 +28,7 @@ text-align: center;
     
 }
 .dropdown-btn {
-padding: 0px 30px;
+padding: 25px 30px;
 text-decoration: none;
 font-size: 25px;
 color: #818181;
@@ -44,7 +44,6 @@ color: #f1f1f1;
 }
 
 .dropdown-content {
-	margin: -6px 0px;
     display: none;
     position: fixed;
     background-color: #262626;
